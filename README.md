@@ -66,4 +66,4 @@ The resulting samples satisfy `y dot s = 0` over GF(2). Binary row reduction rec
 
 ## Course connection and provenance
 
-Draws on Lectures 1.2, 2, 4.1, and 4.2: multiple states, circuits, Deutsch/Deutsch-Jozsa/Simon, and computational-cost models. Created in September 2026 based on summer 2023 studies, with AI assistance. See [sources](SOURCES.md), [provenance](PROVENANCE.md), and [license](LICENSE).
+Draws on Lectures 1.2, 2, 4.1, and 4.2: multiple states, circuits, Deutsch/Deutsch-Jozsa/Simon, and computational-cost models. Created in September 2026 based on summer 2023 studies. See [sources](SOURCES.md), [provenance](PROVENANCE.md), and [license](LICENSE).

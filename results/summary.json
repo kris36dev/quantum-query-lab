@@ -1,0 +1,17 @@
+{
+  "seed": 2023,
+  "largest_dj_n": 8,
+  "dj_classical_worst_case_queries_n8": 129,
+  "dj_quantum_oracle_queries": 1,
+  "simon_secret": "101101",
+  "simon_success_at_12_calls": 0.995,
+  "recovery_trials_per_budget": 400,
+  "cost_model": "oracle queries, not Python runtime",
+  "hardware_execution": false,
+  "environment": {
+    "python": "3.12.13",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8"
+  }
+}
